@@ -1,0 +1,33 @@
+.black {
+    display: flex;
+
+    width: 250px;
+    height: 250px;
+}
+
+.pallete__color_red {
+    background-image: url("./img/10.png");
+}
+
+.pallete__color_yellow {
+    background-image: url("./img/11.png");
+}
+
+.pallete__color_orange {
+    background-image: url("./img/12.png");
+}
+
+.pallete__color_purple {
+    background-image: url("./img/13.webp");
+}
+
+.pallete__color_blue {
+    background-image: url("./img/14.webp");
+}
+
+.pallete__color {
+    width: 250px;
+    height: 300px;
+    margin-bottom: 10px;
+    background-size: contain;
+}
